@@ -1,0 +1,16 @@
+Count number of incomplete data lines ( CAN errors? )
+
+Naive counter:
+cat Match\ whatever\ T.log | sed "s/[^,]//g" | egrep "^,{1,28}$" | wc -l
+
+Outputs timestamp:
+cat Match\ *\ T.log | egrep "^[0-9.]+(,[^,]*){1,28}$" | egrep -o "^[^,]+" | wc -l
+
+Loops through all files in the directory:
+for i in *T.log; do echo $i; cat "$i" | egrep "^[0-9.]+(,[^,]*){1,28}$" | egrep -o "^[^,]+" | wc -l; done
+
+Shows time outputs as well as counts for all files:
+for i in *T.log; do echo $i; cat "$i" | egrep "^[0-9.]+(,[^,]*){1,28}$" | egrep -o "^[^,]+" | tee >(cat | sed "s/^/             /g" >&2) | wc -l; done
+
+Shows line number, time outputs and counts for all files (to see if error was consecutive)
+for i in *T.log; do echo $i; cat "$i" | egrep '^[0-9]' | sed = | sed 'N;s/\n/	/' | egrep "^[^,]+(,[^,]*){1,28}$" | egrep -o "^[^,]+" | tee >(cat | sed "s/^/	/g" >&2) | wc -l; done

@@ -1,0 +1,34 @@
+Timestamp,Bat_Voltage,Driver_Joy_Y,Driver_Joy_X,Driver_Joy_W,Mecanum_FL,Mecanum_BL,Mecanum_BR,Mecanum_FR,FL_Jag_Speed,FL_Out_Voltage,FL_Out_Current,FL_Temp,BL_Jag_Speed,BL_Out_Voltage,BL_Out_Current,BL_Temp,BR_Jag_Speed,BR_Out_Voltage,BR_Out_Current,BR_Temp,FR_Jag_Speed,FR_Out_Voltage,FR_Out_Current,FR_Temp,Pickup_Out_Voltage,Pickup_Out_Current,Pickup_Temp,SH1_Out_Voltage,SH1_Out_Current,SH1_Temp,SH2_Out_Voltage,SH2_Out_Current,SH2_Temp,SHmain_Speed,SHmain_Angle
+S: 93.144 164784356745 Pickup down
+S: 93.217 164784356819 Pickup down
+S: 95.675 164784359277 Pickup up
+S: 95.724 164784359326 Pickup up
+S: 95.797 164784359399 Pickup up
+S: 95.87 164784359472 Pickup up
+S: 100.138 164784363739 Pickup down
+S: 115.055 164784378656 Fired
+S: 117.794 164784381396 Pickup up
+S: 117.854 164784381456 Pickup up
+S: 125.174 164784388775 Pickup down
+S: 125.234 164784388835 Pickup down
+S: 125.304 164784388905 Pickup down
+S: 125.372 164784388974 Pickup down
+S: 127.457 164784391059 Pickup up
+S: 127.525 164784391127 Pickup up
+S: 131.224 164784394825 Pickup down
+S: 131.297 164784394899 Pickup down
+S: 131.371 164784394973 Pickup down
+S: 131.444 164784395045 Pickup down
+S: 135.174 164784398776 Pickup up
+S: 135.224 164784398825 Pickup up
+S: 137.614 164784401216 Pickup down
+S: 137.676 164784401278 Pickup down
+S: 139.34 164784402942 Pickup up
+S: 160.515 164784424117 Pickup down
+S: 160.566 164784424168 Pickup down
+S: 160.625 164784424226 Pickup down
+S: 160.697 164784424298 Pickup down
+S: 162.374 164784425976 Fired
+S: 169.035 164784432636 Pickup up
+S: 169.104 164784432705 Pickup up
+S: 169.185 164784432786 Pickup up

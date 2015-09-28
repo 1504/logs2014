@@ -1,0 +1,13 @@
+Practice 1 - Lexie / Eashwar / Noah - 2
+Practice 2 - Caroline / Kaelee / Nick - B
+
+Match 04 - Carla / Caroline / Kaelee - C
+Match 14 - Eashwar / Noah / Caroline - B
+Match 20 - Kaelee / Lexie / Nick - C
+Match 32 - Lexie / Eashwar / Noah - B
+Match 39 - Nick / Kaelee / Karla - C
+Match 44 - Noah / Karla / Eashwar - B
+Match 49 - Caroline / Karla / Eashwar - C
+Match 62 - Eashwar / Noah / Caroline / Karla - B
+Match 69 - Noah / Eashwar / Kaelee - C
+Match 75 - Karla / Caroline / Kaelee - B (Pneumatics on shooter retract blew)
